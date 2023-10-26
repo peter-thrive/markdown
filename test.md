@@ -6,3 +6,8 @@
 </list>
 ```
 
+```swift
+let a = 5
+func test() {
+}
+```
